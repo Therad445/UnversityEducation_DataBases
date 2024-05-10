@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Therad445\UnversityEducation_DataBases\DataBase_WinForms\DataBase_WinForms\bin\x86\Release\DataBase_WinForms.exe.config
+C:\Users\user\source\repos\Therad445\UnversityEducation_DataBases\DataBase_WinForms\DataBase_WinForms\bin\x86\Release\DataBase_WinForms.exe
+C:\Users\user\source\repos\Therad445\UnversityEducation_DataBases\DataBase_WinForms\DataBase_WinForms\obj\x86\Release\DataBase_WinForms.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Therad445\UnversityEducation_DataBases\DataBase_WinForms\DataBase_WinForms\obj\x86\Release\DataBase_WinForms.Properties.Resources.resources
+C:\Users\user\source\repos\Therad445\UnversityEducation_DataBases\DataBase_WinForms\DataBase_WinForms\obj\x86\Release\DataBase_WinForms.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Therad445\UnversityEducation_DataBases\DataBase_WinForms\DataBase_WinForms\obj\x86\Release\DataBase_WinForms.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Therad445\UnversityEducation_DataBases\DataBase_WinForms\DataBase_WinForms\obj\x86\Release\DataBase_WinForms.exe
